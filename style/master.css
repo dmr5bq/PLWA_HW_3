@@ -1,0 +1,74 @@
+
+
+body {
+    background-color: #eee;
+    padding: 50px;
+}
+
+.padded-table td {
+    padding: 10px;
+}
+
+td {
+    padding: 5px;
+}
+
+.ticket-table {
+    background-color: #5ba1cf;
+    text-align: center;
+}
+
+.ticket-table td {
+    padding: 5px;
+    border: 1px solid gainsboro;
+}
+
+table.table-colored {
+    text-align: center;
+    background-color: #333333;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+.table-colored tr {
+    border-top: 1px solid #fff;
+}
+
+table.table-colored td {
+    width: 10%;
+    overflow: hidden;
+}
+
+th {
+    text-align: center;
+}
+
+h1.dark-header {
+    background-color: #000;
+    color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.highlighted-username {
+    color: darkcyan;
+}
+
+h1 span.highlighted-username {
+    color: #00fa9a;
+}
+
+
+.ticket-table-header {
+    font-weight: 900;
+    color: #fff;
+    border: 0px !important;
+    background: #000;
+}
+
+.select-column {
+    background-color: cornflowerblue;
+}
+
